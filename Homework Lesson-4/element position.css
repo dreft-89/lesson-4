@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box {
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    background-color: #FAFAFA;
+    border: 5px solid #F2A790;
+    border-radius: 10px;
+    width: 500px;
+    height: 250px;
+    text-align: center;
+}
+.secondbox {
+    position: relative;
+    background-color: #FAFAFA;
+    border: 5px solid #0E24EA;
+    border-radius: 20px;
+    width: 600px;
+    height: 250px;
+    text-align: center;
+}
+
+.znacenie {
+    font-family: "Courier New";
+
+}
+.relativ {
+    position: relative;
+    border: 2px solid #137C14;
+    width: 1000px;
+    height: 200px;
+}
+.absolute {
+    position: absolute;
+    border: 2px solid#DC5760;
+    width: 400px;
+    height: 150px;
+    right: 10px;
+    top: 10px;
+}
