@@ -5,6 +5,7 @@
 }
 
 .box {
+    font-size: x-large;
     display: inline-block;
     position: relative;
     left: 100px;
@@ -16,6 +17,7 @@
     text-align: center;
 }
 .secondbox {
+    font-size: x-large;
     position: relative;
     background-color: #FAFAFA;
     border: 5px solid #0E24EA;
@@ -25,11 +27,11 @@
     text-align: center;
 }
 
-.znacenie {
+.classtext {
     font-family: "Courier New";
-
 }
 .relativ {
+    font-size: smaller;
     position: relative;
     border: 2px solid #137C14;
     width: 1000px;
